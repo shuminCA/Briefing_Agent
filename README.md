@@ -15,7 +15,7 @@ A Streamlit-based AI assistant that helps users prepare for meetings by providin
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/shuminCA/Briefing_Agent.git
    cd Briefing_Agent
    ```
 
